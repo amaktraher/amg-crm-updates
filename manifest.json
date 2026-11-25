@@ -1,8 +1,8 @@
 {
-    "version":  "0.2.9",
-    "publishedAt":  "2026-11-25T15:11:55+03:00",
-    "notes":  "Счётчик задач на сегодня и календарь обновляются сразу после удаления",
-    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.2.9.zip",
-    "sha256":  "46a064bec94b4c710a9575c3d23716812f40823c7f9e1b871e340caa89c649b5",
-    "size":  418431
+    "version":  "0.3.0",
+    "publishedAt":  "2026-11-25T15:13:30+03:00",
+    "notes":  "Свежий манифест обновлений и исправление счётчика задач",
+    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.3.0.zip",
+    "sha256":  "df13cd68205e3dbc889b9289dd5731f8d7882a6394e6d8fb0a29f19a7d11a13a",
+    "size":  418835
 }
