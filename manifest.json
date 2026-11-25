@@ -1,8 +1,8 @@
 {
-    "version":  "0.4.2",
-    "publishedAt":  "2026-11-25T20:02:06+03:00",
-    "notes":  "Приём чатов Авито из расширения",
-    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.4.2.zip",
-    "sha256":  "d319c68f6dcb678ab5df0ddd1e0b58914b3467c42ecf80246017a9db931493de",
-    "size":  436122
+    "version":  "0.4.3",
+    "publishedAt":  "2026-11-25T20:07:30+03:00",
+    "notes":  "Новые чаты появляются строкой сразу",
+    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.4.3.zip",
+    "sha256":  "c27323c5a6d1b2c32794318809fcd8f79cfae2ed26481c5e5f12c412182267ca",
+    "size":  435472
 }
