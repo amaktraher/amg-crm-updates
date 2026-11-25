@@ -1,8 +1,8 @@
 {
-    "version":  "0.5.9",
-    "publishedAt":  "2026-11-25T23:09:56+03:00",
-    "notes":  "Диагностика импорта чатов Авито",
-    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.5.9.zip",
-    "sha256":  "99c63ddf21ce74fc7913eb8184ea743a1b5e4bbdb52dd3ce7b1028882538201b",
-    "size":  440801
+    "version":  "0.6.0",
+    "publishedAt":  "2026-11-25T23:13:16+03:00",
+    "notes":  "Уведомления о новых чатах показывает программа",
+    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.6.0.zip",
+    "sha256":  "6bcf0696fc941e07c592df7b80b17e1a114116c2f5f2f8b3654e90a0bbb2768e",
+    "size":  443456
 }
