@@ -1,8 +1,8 @@
 {
-    "version":  "0.3.0",
-    "publishedAt":  "2026-11-25T15:13:30+03:00",
-    "notes":  "Свежий манифест обновлений и исправление счётчика задач",
-    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.3.0.zip",
-    "sha256":  "df13cd68205e3dbc889b9289dd5731f8d7882a6394e6d8fb0a29f19a7d11a13a",
-    "size":  418835
+    "version":  "0.3.1",
+    "publishedAt":  "2026-11-25T18:04:54+03:00",
+    "notes":  "Убраны демонстрационные клиенты, задачи и события",
+    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.3.1.zip",
+    "sha256":  "cb79d479a2087e7f050eadb4879bda1cc7f919d599aa58334b492852c4a72711",
+    "size":  420083
 }
