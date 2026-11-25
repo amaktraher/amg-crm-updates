@@ -1,8 +1,8 @@
 {
-    "version":  "0.7.0",
-    "publishedAt":  "2026-11-25T23:58:47+03:00",
-    "notes":  "Фильтр чатов по месяцу и год в дате",
-    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.7.0.zip",
-    "sha256":  "461d05a40576e1e478ea0540951fca5809930fcf08928a61a56294aca42d0562",
-    "size":  445356
+    "version":  "0.7.1",
+    "publishedAt":  "2026-11-26T00:27:27+03:00",
+    "notes":  "Месяцы по местному времени, все чаты в списке",
+    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.7.1.zip",
+    "sha256":  "916a9af9fc0488316f6f2e7d9ea993131c4110ef64620ba52b448f909adb6ae1",
+    "size":  445395
 }
