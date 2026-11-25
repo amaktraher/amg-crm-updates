@@ -1,8 +1,8 @@
 {
-    "version":  "0.4.9",
-    "publishedAt":  "2026-11-25T20:37:26+03:00",
-    "notes":  "Точное открытие чата по ссылке",
-    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.4.9.zip",
-    "sha256":  "eebb1d17af222c86aee5ac824478f358b91fd62b89008918f360673447490350",
-    "size":  437588
+    "version":  "0.5.0",
+    "publishedAt":  "2026-11-25T20:39:28+03:00",
+    "notes":  "Ctrl+F открывает поиск в программе, окно на весь экран",
+    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.5.0.zip",
+    "sha256":  "d4641ae38bf94042d73c4fff6178e56d1857688808eef24cf4716a4026ac79fc",
+    "size":  437590
 }
