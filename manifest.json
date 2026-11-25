@@ -1,8 +1,8 @@
 {
-    "version":  "0.3.9",
-    "publishedAt":  "2026-11-25T18:47:42+03:00",
-    "notes":  "Ссылка на чат в задачах",
-    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.3.9.zip",
-    "sha256":  "150ea1e3cafb240c6e36760dfb998b9db71b5b4117d79dc174a552e3857b26b6",
-    "size":  422933
+    "version":  "0.3.10",
+    "publishedAt":  "2026-11-25T19:13:55+03:00",
+    "notes":  "Убрана подпись Без клиента в обзоре",
+    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.3.10.zip",
+    "sha256":  "b1486ee6d65383685a8d77d3998e35c220924f5fffc435fed398d6673c163763",
+    "size":  423129
 }
