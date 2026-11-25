@@ -1,8 +1,8 @@
 {
-    "version":  "0.3.3",
-    "publishedAt":  "2026-11-25T18:18:19+03:00",
-    "notes":  "Полностью чистая программа: без демо-событий и старых записей",
-    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.3.3.zip",
-    "sha256":  "165823b5df0bc1abf675ad9265bf29f02199f7aa3b676ffbe8204f93da08dd7d",
-    "size":  420622
+    "version":  "0.3.4",
+    "publishedAt":  "2026-11-25T18:19:56+03:00",
+    "notes":  "Убрана надпись workspace, добавлена очистка данных",
+    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.3.4.zip",
+    "sha256":  "24c0f1ff39a8eb2717074d99b3878fc35d81dff655032b9230b5822adbe7bfd6",
+    "size":  421307
 }
