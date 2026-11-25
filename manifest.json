@@ -1,8 +1,8 @@
 {
-    "version":  "0.6.5",
-    "publishedAt":  "2026-11-25T23:36:59+03:00",
-    "notes":  "Дубли не теряют данные, имена кнопок отбрасываются",
-    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.6.5.zip",
-    "sha256":  "2f0435d55cb8b0d36b966ab277406f683354ea4377ea109935cbd19f96681af8",
-    "size":  444309
+    "version":  "0.6.6",
+    "publishedAt":  "2026-11-25T23:39:58+03:00",
+    "notes":  "Названия объявлений: отбрасываем кнопки и адреса",
+    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.6.6.zip",
+    "sha256":  "f4fe40649b63beb56b882cba7cac647d76054b6f1e5c1b8b6249c54f564ea283",
+    "size":  444744
 }
