@@ -1,8 +1,8 @@
 {
-    "version":  "0.5.1",
-    "publishedAt":  "2026-11-25T20:46:47+03:00",
-    "notes":  "Ctrl+F внутри программы",
-    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.5.1.zip",
-    "sha256":  "9f84f790a6d0d01064075b3d90b2cfb7fd97745746b297e313543e61e3773d9f",
-    "size":  437651
+    "version":  "0.5.2",
+    "publishedAt":  "2026-11-25T20:50:03+03:00",
+    "notes":  "Ctrl+F работает из любого раздела",
+    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.5.2.zip",
+    "sha256":  "ee57a09c7709505f62fdaba8ccb821a9ec0177b60bed7b11b6fec3cc075f08e3",
+    "size":  437816
 }
