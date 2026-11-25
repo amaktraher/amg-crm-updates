@@ -1,8 +1,8 @@
 {
-    "version":  "0.6.0",
-    "publishedAt":  "2026-11-25T23:13:16+03:00",
-    "notes":  "Уведомления о новых чатах показывает программа",
-    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.6.0.zip",
-    "sha256":  "6bcf0696fc941e07c592df7b80b17e1a114116c2f5f2f8b3654e90a0bbb2768e",
-    "size":  443456
+    "version":  "0.6.1",
+    "publishedAt":  "2026-11-25T23:14:23+03:00",
+    "notes":  "Уведомление программы о новом чате",
+    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.6.1.zip",
+    "sha256":  "cf2882e1ea14f9723feedbfda344eefdb6f2c6410eb149d1826d1a3223637676",
+    "size":  443455
 }
