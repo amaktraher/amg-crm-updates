@@ -1,8 +1,8 @@
 {
-    "version":  "0.4.0",
-    "publishedAt":  "2026-11-25T19:30:12+03:00",
-    "notes":  "Раздел Авито — все чаты",
-    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.4.0.zip",
-    "sha256":  "fc55ab9467bb44e89d5daabd2de8eeb034c9ed7d8634a5ae2df34db00be92682",
-    "size":  431705
+    "version":  "0.4.1",
+    "publishedAt":  "2026-11-25T19:47:02+03:00",
+    "notes":  "Подключение Авито и проверка ключей",
+    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.4.1.zip",
+    "sha256":  "7d8b8eaefc4f2a255cf43d4550f58ba31572c00f0c41a0f6eabec0a9fc5d9a78",
+    "size":  436152
 }
