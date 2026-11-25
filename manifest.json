@@ -1,8 +1,8 @@
 {
-    "version":  "0.3.1",
-    "publishedAt":  "2026-11-25T18:04:54+03:00",
-    "notes":  "Убраны демонстрационные клиенты, задачи и события",
-    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.3.1.zip",
-    "sha256":  "cb79d479a2087e7f050eadb4879bda1cc7f919d599aa58334b492852c4a72711",
-    "size":  420083
+    "version":  "0.3.2",
+    "publishedAt":  "2026-11-25T18:05:55+03:00",
+    "notes":  "Демонстрационные данные удаляются автоматически",
+    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.3.2.zip",
+    "sha256":  "25a081a5e049ef251849f89e7bb58454f7f9c6b7d64a4e336c41f63e4e251ed2",
+    "size":  420485
 }
