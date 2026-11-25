@@ -1,8 +1,8 @@
 {
-    "version":  "0.2.8",
-    "publishedAt":  "2026-11-25T14:52:11+03:00",
-    "notes":  "Проверка обновления: окно вместо баннера",
-    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.2.8.zip",
-    "sha256":  "d53e493ccfbc9b63bd97db0795b8b3273e72e4ae4f3a5ca5b0702b9dda6e66ef",
-    "size":  418163
+    "version":  "0.2.9",
+    "publishedAt":  "2026-11-25T15:11:55+03:00",
+    "notes":  "Счётчик задач на сегодня и календарь обновляются сразу после удаления",
+    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.2.9.zip",
+    "sha256":  "46a064bec94b4c710a9575c3d23716812f40823c7f9e1b871e340caa89c649b5",
+    "size":  418431
 }
