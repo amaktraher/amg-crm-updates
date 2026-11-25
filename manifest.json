@@ -1,8 +1,8 @@
 {
-    "version":  "0.5.8",
-    "publishedAt":  "2026-11-25T23:04:45+03:00",
-    "notes":  "Правильное имя клиента и дозаполнение данных",
-    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.5.8.zip",
-    "sha256":  "8aa960d4d4cadc964c690c537746344c684aa9e46a1d8749e8c5b44b63a3afc5",
-    "size":  440660
+    "version":  "0.5.9",
+    "publishedAt":  "2026-11-25T23:09:56+03:00",
+    "notes":  "Диагностика импорта чатов Авито",
+    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.5.9.zip",
+    "sha256":  "99c63ddf21ce74fc7913eb8184ea743a1b5e4bbdb52dd3ce7b1028882538201b",
+    "size":  440801
 }
