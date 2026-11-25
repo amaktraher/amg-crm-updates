@@ -1,8 +1,8 @@
 {
-    "version":  "0.5.6",
-    "publishedAt":  "2026-11-25T22:40:45+03:00",
-    "notes":  "Найденная строка подсвечивается зелёным",
-    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.5.6.zip",
-    "sha256":  "fb61cb43135f1235c70053c61856ddf6f6f15cf63ccfb4f93b29276b69627ebb",
-    "size":  440288
+    "version":  "0.5.7",
+    "publishedAt":  "2026-11-25T22:47:48+03:00",
+    "notes":  "Название объявления дозаполняется, чат появляется повторно",
+    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.5.7.zip",
+    "sha256":  "3b9b50c7bd859e619b5a993fe92ccf66efee433d489dd291117d6d523f61bfec",
+    "size":  440534
 }
