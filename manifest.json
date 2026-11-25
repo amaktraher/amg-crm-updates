@@ -1,8 +1,8 @@
 {
-    "version":  "0.2.6",
-    "publishedAt":  "2026-11-25T14:46:23+03:00",
-    "notes":  "Обновления через интернет: встроенный источник",
-    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.2.6.zip",
-    "sha256":  "a397c35210fc0c8b9566bc1092877cd129664c0dc8ecbdc6f7e8c4c9546263f9",
-    "size":  418624
+    "version":  "0.2.7",
+    "publishedAt":  "2026-11-25T14:51:48+03:00",
+    "notes":  "Обновление теперь показывается отдельным окном",
+    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.2.7.zip",
+    "sha256":  "8c5360c9dc0e826d888c5a111e49970ef4cb754e142955511f5b8cc173cff3fa",
+    "size":  418163
 }
