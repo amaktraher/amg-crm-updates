@@ -1,8 +1,8 @@
 {
-    "version":  "0.5.7",
-    "publishedAt":  "2026-11-25T22:47:48+03:00",
-    "notes":  "Название объявления дозаполняется, чат появляется повторно",
-    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.5.7.zip",
-    "sha256":  "3b9b50c7bd859e619b5a993fe92ccf66efee433d489dd291117d6d523f61bfec",
-    "size":  440534
+    "version":  "0.5.8",
+    "publishedAt":  "2026-11-25T23:04:45+03:00",
+    "notes":  "Правильное имя клиента и дозаполнение данных",
+    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.5.8.zip",
+    "sha256":  "8aa960d4d4cadc964c690c537746344c684aa9e46a1d8749e8c5b44b63a3afc5",
+    "size":  440660
 }
