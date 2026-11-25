@@ -1,8 +1,8 @@
 {
-    "version":  "0.5.2",
-    "publishedAt":  "2026-11-25T20:50:03+03:00",
-    "notes":  "Ctrl+F работает из любого раздела",
-    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.5.2.zip",
-    "sha256":  "ee57a09c7709505f62fdaba8ccb821a9ec0177b60bed7b11b6fec3cc075f08e3",
-    "size":  437816
+    "version":  "0.5.3",
+    "publishedAt":  "2026-11-25T20:54:50+03:00",
+    "notes":  "Окно поиска чата по Ctrl+F",
+    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.5.3.zip",
+    "sha256":  "b687a53e97f992ad138bc09f3dc1ebfbb0c2144c2a3e2c4f955cb9e4d6b72ed0",
+    "size":  439402
 }
