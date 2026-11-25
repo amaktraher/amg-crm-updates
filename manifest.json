@@ -1,8 +1,8 @@
 {
-    "version":  "0.6.3",
-    "publishedAt":  "2026-11-25T23:24:44+03:00",
-    "notes":  "Полировка интерфейса и тестов",
-    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.6.3.zip",
-    "sha256":  "c1e52f3c5d8872d681820eb67e9121b58687ae5d8ac20c6cb4430ec082cbfd85",
-    "size":  443448
+    "version":  "0.6.4",
+    "publishedAt":  "2026-11-25T23:35:54+03:00",
+    "notes":  "Не записываем названия кнопок вместо имени, чистка старых",
+    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.6.4.zip",
+    "sha256":  "7e954435f7616cf54ab8d3a9c9bac5e21390e7b1b56935df6367739b14c049ba",
+    "size":  443989
 }
