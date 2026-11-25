@@ -1,8 +1,8 @@
 {
-    "version":  "0.2.7",
-    "publishedAt":  "2026-11-25T14:51:48+03:00",
-    "notes":  "Обновление теперь показывается отдельным окном",
-    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.2.7.zip",
-    "sha256":  "8c5360c9dc0e826d888c5a111e49970ef4cb754e142955511f5b8cc173cff3fa",
+    "version":  "0.2.8",
+    "publishedAt":  "2026-11-25T14:52:11+03:00",
+    "notes":  "Проверка обновления: окно вместо баннера",
+    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.2.8.zip",
+    "sha256":  "d53e493ccfbc9b63bd97db0795b8b3273e72e4ae4f3a5ca5b0702b9dda6e66ef",
     "size":  418163
 }
