@@ -1,8 +1,8 @@
 {
-    "version":  "0.3.5",
-    "publishedAt":  "2026-11-25T18:22:37+03:00",
-    "notes":  "Обновление без окна командной строки",
-    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.3.5.zip",
-    "sha256":  "83dae8e5799bb1f02c34f0db605013a94b27f9a9b986482349e0764fc03405ed",
-    "size":  421501
+    "version":  "0.3.6",
+    "publishedAt":  "2026-11-25T18:33:24+03:00",
+    "notes":  "Задача: номер заказа 1С и магазин",
+    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.3.6.zip",
+    "sha256":  "dddf84fbb2b28566fc24205a9c56c19976d671b4c1409d2efc706e877ed0836f",
+    "size":  422103
 }
