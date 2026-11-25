@@ -1,8 +1,8 @@
 {
-    "version":  "0.4.3",
-    "publishedAt":  "2026-11-25T20:07:30+03:00",
-    "notes":  "Новые чаты появляются строкой сразу",
-    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.4.3.zip",
-    "sha256":  "c27323c5a6d1b2c32794318809fcd8f79cfae2ed26481c5e5f12c412182267ca",
-    "size":  435472
+    "version":  "0.4.4",
+    "publishedAt":  "2026-11-25T20:09:15+03:00",
+    "notes":  "Защита от дублей чатов Авито",
+    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.4.4.zip",
+    "sha256":  "2b735c2c506485bacf8d80c04ba3c0ffee36c9e704652f579a4843964bc861c4",
+    "size":  436091
 }
