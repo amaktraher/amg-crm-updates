@@ -1,8 +1,8 @@
 {
-    "version":  "0.3.7",
-    "publishedAt":  "2026-11-25T18:41:13+03:00",
-    "notes":  "Исправлена кнопка Создать задачу",
-    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.3.7.zip",
-    "sha256":  "c34742f55aee38800fc1dd5145f178c6517bf5b8e6fc24dc39bd6b0268821119",
-    "size":  422087
+    "version":  "0.3.8",
+    "publishedAt":  "2026-11-25T18:42:56+03:00",
+    "notes":  "Телефон в задачах",
+    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.3.8.zip",
+    "sha256":  "c642cf0cc7af99143766dde9fa7678485b61f984ca7d0e8539146ec85a77721e",
+    "size":  422232
 }
