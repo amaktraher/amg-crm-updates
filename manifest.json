@@ -1,8 +1,8 @@
 {
-    "version":  "0.5.0",
-    "publishedAt":  "2026-11-25T20:39:28+03:00",
-    "notes":  "Ctrl+F открывает поиск в программе, окно на весь экран",
-    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.5.0.zip",
-    "sha256":  "d4641ae38bf94042d73c4fff6178e56d1857688808eef24cf4716a4026ac79fc",
-    "size":  437590
+    "version":  "0.5.1",
+    "publishedAt":  "2026-11-25T20:46:47+03:00",
+    "notes":  "Ctrl+F внутри программы",
+    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.5.1.zip",
+    "sha256":  "9f84f790a6d0d01064075b3d90b2cfb7fd97745746b297e313543e61e3773d9f",
+    "size":  437651
 }
