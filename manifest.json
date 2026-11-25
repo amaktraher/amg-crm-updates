@@ -1,8 +1,8 @@
 {
-    "version":  "0.6.6",
-    "publishedAt":  "2026-11-25T23:39:58+03:00",
-    "notes":  "Названия объявлений: отбрасываем кнопки и адреса",
-    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.6.6.zip",
-    "sha256":  "f4fe40649b63beb56b882cba7cac647d76054b6f1e5c1b8b6249c54f564ea283",
-    "size":  444744
+    "version":  "0.7.0",
+    "publishedAt":  "2026-11-25T23:58:47+03:00",
+    "notes":  "Фильтр чатов по месяцу и год в дате",
+    "file":  "https://raw.githubusercontent.com/amaktraher/amg-crm-updates/main/releases/amg-crm-0.7.0.zip",
+    "sha256":  "461d05a40576e1e478ea0540951fca5809930fcf08928a61a56294aca42d0562",
+    "size":  445356
 }
